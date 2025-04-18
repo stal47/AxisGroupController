@@ -5,6 +5,7 @@ AGC is a plugin/mod that makes SAS control your axis groups. Great for stock ves
 To explain it simply, **AGC** lets SAS control your hinges that are set in your Axis Groups, allowing you to create a stock vessel, that doesnt require keyboard mashing for whatever fins your using.
 ##### This is a V1.0 release, but there hasnt been much testing!
 
+## Please report any bugs that you want fixed. You can DM @stal47 on discord.
 
 
 # Patch Notes
