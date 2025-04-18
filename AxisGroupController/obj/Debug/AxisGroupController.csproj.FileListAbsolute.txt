@@ -1,0 +1,6 @@
+E:\AxisGroupController\AxisGroupController\AxisGroupController\bin\Debug\AxisGroupController.dll
+E:\AxisGroupController\AxisGroupController\AxisGroupController\bin\Debug\AxisGroupController.pdb
+E:\AxisGroupController\AxisGroupController\AxisGroupController\obj\Debug\AxisGroupController.csproj.AssemblyReference.cache
+E:\AxisGroupController\AxisGroupController\AxisGroupController\obj\Debug\AxisGroupController.csproj.CoreCompileInputs.cache
+E:\AxisGroupController\AxisGroupController\AxisGroupController\obj\Debug\AxisGroupController.dll
+E:\AxisGroupController\AxisGroupController\AxisGroupController\obj\Debug\AxisGroupController.pdb

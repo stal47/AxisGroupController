@@ -1,0 +1,5 @@
+compat add --gamedir "E:\games\modded\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\" 1.12
+compat add --gamedir "E:\games\modded\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\" 1.11
+compat add --gamedir "E:\games\modded\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\" 1.10
+compat add --gamedir "E:\games\modded\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\" 1.9
+compat add --gamedir "E:\games\modded\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\Kerbal.Space.Program.v1.12.5.3190.Incl.ALL.DLC\" 1.8
